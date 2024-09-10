@@ -1582,3 +1582,14 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.09.10-16.00.42:630][198]LogSavePackage: Moving '../../../../../../Users/ra00330914/Documents/GitHub/BrasilWar/Saved/9ZH0VTFBSPLA257G6V0XFR_Auto1813C28744A3791D877A3FF8D23988982.tmp' to '../../../../../../Users/ra00330914/Documents/GitHub/BrasilWar/Saved/Autosaves/Game/__ExternalActors__/Level/First_Level/B/I9/9ZH0VTFBSPLA257G6V0XFR_Auto1.uasset'
 [2024.09.10-16.00.42:631][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/First_Level' took 0.018
 [2024.09.10-16.00.42:631][198]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.09.10-16.02.03:934][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.09.10-16.02.03:938][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-16.02.03:995][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.09.10-16.02.03:998][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.09.10-16.02.04:000][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.09.10-16.02.04:004][528]LogWorldPartition: Can't find class descriptor '/Game/Airplanes/AviaoA.AviaoA_C' for saving '/Game/Level/First_Level.First_Level:PersistentLevel.AviaoA_C_UAID_5C60BAB12AA1EA1A02_1373532135'
+[2024.09.10-16.02.04:005][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/First_Level/B/I9/9ZH0VTFBSPLA257G6V0XFR
+[2024.09.10-16.02.04:005][528]LogSavePackage: Moving '../../../../../../Users/ra00330914/Documents/GitHub/BrasilWar/Saved/9ZH0VTFBSPLA257G6V0XFR3260E5E24B3948A87B71AFB98BE8E14F.tmp' to '../../../../../../Users/ra00330914/Documents/GitHub/BrasilWar/Content/__ExternalActors__/Level/First_Level/B/I9/9ZH0VTFBSPLA257G6V0XFR.uasset'
+[2024.09.10-16.02.04:012][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms
+[2024.09.10-16.02.04:014][528]AssetCheck: New page: Asset Save: AviaoA_C_UAID_5C60BAB12AA1EA1A02_1373532135
+[2024.09.10-16.02.04:014][528]LogContentValidation: Display: Validating /Game/Airplanes/AviaoA.AviaoA_C /Game/Level/First_Level.First_Level:PersistentLevel.AviaoA_C_UAID_5C60BAB12AA1EA1A02_1373532135
