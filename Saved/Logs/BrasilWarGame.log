@@ -1140,3 +1140,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.17-13.57.10:379][  3]LogD3D12RHI: Cannot end block when stack is empty
 [2024.09.17-13.57.13:362][152]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.09.17-13.59.13:447][321]LogDerivedDataCache: C:/Users/RA00333445/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4664 files in 6191 folders with total size 614 MiB.
+[2024.09.17-14.05.08:275][384]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.05.08:275][384]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.05.39:484][477]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.05.39:484][477]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.06.15:423][585]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.06.15:423][585]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.06.15:616][586]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.05:195][734]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.05:195][734]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.55:019][884]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
