@@ -1163,3 +1163,4 @@ LogInit: Object subsystem initialized
 [2024.09.17-13.54.54:214][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,058ms to complete.
 [2024.09.17-13.54.54:214][550]LogSlate: Window 'Open Level' being destroyed
 [2024.09.17-13.56.41:081][ 46]LogDerivedDataCache: C:/Users/ra00331534/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.080 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 3703 files in 5453 folders with total size 207 MiB.
+[2024.09.17-14.10.12:323][478]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
