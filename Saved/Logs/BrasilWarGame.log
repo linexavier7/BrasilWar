@@ -1139,6 +1139,7 @@ LogInit: Object subsystem initialized
 [2024.09.17-13.54.40:122][  1]LogAutomationController: Ignoring very large delta of 16817691.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.09.17-13.54.40:140][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
+<<<<<<< HEAD
 [2024.09.17-13.54.40:150][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.027715 secs
 [2024.09.17-13.54.40:299][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.09.17-13.54.42:589][144]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
@@ -1732,3 +1733,27 @@ LogInit: Object subsystem initialized
 [2024.09.17-14.14.01:340][222]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.09.17-14.14.01:372][222]LogExit: Exiting.
 [2024.09.17-14.14.01:394][222]Log file closed, 09/17/24 11:14:01
+=======
+[2024.09.17-13.57.10:233][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.023623 secs
+[2024.09.17-13.57.10:240][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/RA00333445/Downloads/BrasilWar/Content/' took 0.24s
+[2024.09.17-13.57.10:379][  3]LogD3D12RHI: Cannot end block when stack is empty
+[2024.09.17-13.57.13:362][152]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.17-13.59.13:447][321]LogDerivedDataCache: C:/Users/RA00333445/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4664 files in 6191 folders with total size 614 MiB.
+[2024.09.17-14.05.08:275][384]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.05.08:275][384]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.05.39:484][477]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.05.39:484][477]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.06.15:423][585]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.06.15:423][585]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.06.15:616][586]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.05:195][734]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.05:195][734]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.55:019][884]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.07.55:565][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Teste does not exist, will not scan.
+[2024.09.17-14.09.01:435][ 82]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2024.09.17-14.10.55:938][426]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+>>>>>>> 1072849a17e8b1b89b85496371f45d633681ee85
