@@ -1838,3 +1838,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.21-23.45.22:973][388]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/Delete does not exist, will not scan.
 [2024.09.21-23.45.22:973][388]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
 [2024.09.21-23.45.23:015][389]LogAssetRegistry: Display: Package C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Level/Level1.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2024.09.21-23.47.40:754][399]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.21-23.47.42:904][406]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
+[2024.09.21-23.47.43:229][407]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Level/First_Level does not exist, will not scan.
