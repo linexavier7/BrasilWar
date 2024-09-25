@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Games/DreamWorld/BrasilWar/Content/Blueprint/BP_Jet.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Level/Teste_HLOD0_Instancing.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/__ExternalActors__/Level/Teste/C/VN/ETP5YHEGF2391YPX3O1W01.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/__ExternalObjects__/Level/Teste/5/HJ/5N56OW45WCFITSFX8PW8JL.uasset",
@@ -308,6 +307,9 @@
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Airplane/ANIMATIONS/EmptyAnim.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Airplane/SoundEffects/JetEngineLoop.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Airplane/SoundEffects/JetEngineLoop_Cue.uasset",
+				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Level/Level1.umap",
+				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/__ExternalActors__/Level/Teste/3/W2/XZN19U27RX5T55KN80YBK1.uasset",
+				"C:/Games/DreamWorld/BrasilWar/Content/Blueprint/BP_Jet.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/Airplanes/AviaoA.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/VigilanteContent/Vehicles/West_Fighter_Typhoon/FX/NS_West_Fighter_Typhoon_Damaged.uasset",
 				"C:/Users/AMD/Documents/Github Repos/BrasilWar/Content/VigilanteContent/Vehicles/West_Fighter_Typhoon/FX/NS_West_Fighter_Typhoon_Jet.uasset",
